@@ -33,5 +33,5 @@ I'm a passionate software engineer from India, now based in California. I recent
 
 🛠 Language and tools
 
-<img width="2" height="2" alt="62a7524a223343fbc2207d08" src="https://github.com/user-attachments/assets/d7fb0f60-296f-40bf-9e1d-9a40c54c152b" /> 
+<img width="20" height="20" alt="62a7524a223343fbc2207d08" src="https://github.com/user-attachments/assets/d7fb0f60-296f-40bf-9e1d-9a40c54c152b" /> 
 typescript logo  python logo  react logo  go logo  redis logo  mongodb logo  postgresql logo  apachekafka logo  docker logo  kubernetes logo  amazonwebservices logo  azure logo  github logo
