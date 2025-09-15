@@ -34,5 +34,5 @@ I'm a passionate software engineer from India, now based in California. I recent
 
 <img width="40" height="40" alt="62a7524a223343fbc2207d08" src="https://github.com/user-attachments/assets/d7fb0f60-296f-40bf-9e1d-9a40c54c152b" /> 
 
-<img width="354" height="400" alt="33518868-6e2595c4-d76a-11e7-8260-31b4e8110c93" src="https://github.com/user-attachments/assets/8b6ca239-ef19-44dd-9bc4-760ba9d8509c" />
+<img width="40" height="40" alt="33518868-6e2595c4-d76a-11e7-8260-31b4e8110c93" src="https://github.com/user-attachments/assets/8b6ca239-ef19-44dd-9bc4-760ba9d8509c" />
 
