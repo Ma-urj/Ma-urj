@@ -14,37 +14,6 @@ I build **AI-powered products that actually work in the real world**, not just d
 - ⚙️ Scalable Architectures (Docker, AWS, Supabase, APIs)
 - 🧠 AI + Product Thinking (turning ideas → shipped systems)
 
-## 🛠️ Featured Projects
-
-### 🧠 ClarityDesk AI  
-> Real-time AI meeting assistant (Electron + Whisper + LLMs)
-
-- 🎙️ Live speech-to-text + contextual summaries  
-- 🧩 Multi-engine architecture (transcription, insights, chat)  
-- 🖥️ Local + cloud AI support (Ollama + OpenAI)  
-- 🔍 Semantic search over meeting history  
-
-### 📚 Smart Fridge App  
-> AI-powered inventory + grocery management system  
-
-- 🧾 Barcode scanning + expiry tracking  
-- 🏠 Multi-user shared household system  
-- 🤖 AI-powered suggestions & usage insights  
-- ⚙️ Backend: Supabase with RLS  
-
-### 💬 Book AI  
-> Company knowledge assistant using LLMs  
-
-- 📄 PDF ingestion + FAISS vector search  
-- 🤖 Context-aware Q&A over company data  
-- ⚡ FastAPI backend + React/Expo frontend  
-
-### 🧬 Computer Vision Projects  
-- ✋ Gesture-controlled gaming (played Pokémon using hand tracking)  
-- 🙂 Emotion detection system  
-- 🧏 Sign language recognition  
-- 📸 Face detection & recognition pipelines  
-
 ## 🧰 Tech Stack
 
 ### 💻 Languages  
