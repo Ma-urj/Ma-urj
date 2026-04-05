@@ -16,20 +16,9 @@ I build **AI-powered products that actually work in the real world**, not just d
 
 ## 🧰 Tech Stack
 
-### 💻 Languages  
-JavaScript • TypeScript • Python • Java  
-
-### 🧠 AI / ML  
-LLMs • RAG • LangChain • FAISS • Whisper • Computer Vision  
-
-### ⚙️ Backend  
-Node.js • FastAPI • Flask • Supabase • Firebase  
-
-### 🎨 Frontend  
-React • React Native • Tailwind • Chakra UI  
-
-### ☁️ DevOps & Cloud  
-AWS • Azure • Docker • CI/CD • GitHub Actions  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,electron,nodejs,fastapi,flask,supabase,firebase,aws,azure,docker,git,github,anaconda,androidstudio,angular,cs,cpp,cloudflare,css,django,express,firebase,gcp,kafka,kubernetes,latex,linux,mongodb,mysql,nextjs,npm,opencv,redis,redux,spring,sqlite,sklearn,tailwind,tensorflow,vite,vscode" />
+</p>
 
 ## 🏆 Experience Highlights
 
