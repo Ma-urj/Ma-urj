@@ -1,38 +1,108 @@
-## Hi there 👋
+# 👋 Hey, I'm Mohammed Arfa Uruj
 
-<!--
-**Ma-urj/Ma-urj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer passionate about building real-world intelligent systems  
+🎓 MS Computer Science @ California State University, San Bernardino (2025)  
+📍 Based in Texas, USA  
+⚡ Focused on AI, LLM systems, and scalable full-stack applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👩‍💻 About Me
-👋 Hi, I'm Mohammed Arfa Uruj
+## 🧠 What I Do
 
-I'm a passionate software engineer from India, now based in California. I recently graduated with a Master's degree in Computer Science from California State University, San Bernardino (Spring 2025).
+I build **AI-powered products that actually work in the real world**, not just demos.
 
-🔭 I’m currently working on...
-- Contributing to open-source projects
-- Actively seeking full-time opportunities to build impactful software at scale
+- 🤖 LLM Systems (RAG, Agents, Local + Cloud inference)
+- 🧩 Full-Stack Development (React, React Native, Node, FastAPI)
+- ⚙️ Scalable Architectures (Docker, AWS, Supabase, APIs)
+- 🧠 AI + Product Thinking (turning ideas → shipped systems)
 
-⚡ In my free time I...
-- Contribute to the open-source ecosystem
-- Share ideas and insights through technical blog posts
-- Explore new technologies and build side projects
-- Hit the gym to stay active 💪
-- Go on long drives to unwind 🚗
+---
 
-🛠 Language and tools
+## 🛠️ Featured Projects
 
-<img width="40" height="40" alt="62a7524a223343fbc2207d08" src="https://github.com/user-attachments/assets/d7fb0f60-296f-40bf-9e1d-9a40c54c152b" /> 
+### 🧠 ClarityDesk AI  
+> Real-time AI meeting assistant (Electron + Whisper + LLMs)
 
-<img width="40" height="40" alt="33518868-6e2595c4-d76a-11e7-8260-31b4e8110c93" src="https://github.com/user-attachments/assets/8b6ca239-ef19-44dd-9bc4-760ba9d8509c" />
+- 🎙️ Live speech-to-text + contextual summaries  
+- 🧩 Multi-engine architecture (transcription, insights, chat)  
+- 🖥️ Local + cloud AI support (Ollama + OpenAI)  
+- 🔍 Semantic search over meeting history  
 
+---
+
+### 📚 Smart Fridge App  
+> AI-powered inventory + grocery management system  
+
+- 🧾 Barcode scanning + expiry tracking  
+- 🏠 Multi-user shared household system  
+- 🤖 AI-powered suggestions & usage insights  
+- ⚙️ Backend: Supabase with RLS  
+
+---
+
+### 💬 Book AI (Cassidy AI Clone)  
+> Company knowledge assistant using LLMs  
+
+- 📄 PDF ingestion + FAISS vector search  
+- 🤖 Context-aware Q&A over company data  
+- ⚡ FastAPI backend + React/Expo frontend  
+
+---
+
+### 🧬 Computer Vision Projects  
+- ✋ Gesture-controlled gaming (played Pokémon using hand tracking)  
+- 🙂 Emotion detection system  
+- 🧏 Sign language recognition  
+- 📸 Face detection & recognition pipelines  
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages  
+JavaScript • TypeScript • Python • Java  
+
+### 🧠 AI / ML  
+LLMs • RAG • LangChain • FAISS • Whisper • Computer Vision  
+
+### ⚙️ Backend  
+Node.js • FastAPI • Flask • Supabase • Firebase  
+
+### 🎨 Frontend  
+React • React Native • Tailwind • Chakra UI  
+
+### ☁️ DevOps & Cloud  
+AWS • Azure • Docker • CI/CD • GitHub Actions  
+
+---
+
+## 🏆 Experience Highlights
+
+- 👨‍🔬 Led research at AQFS Labs, mentoring 15+ students  
+- 📊 Built AI + cloud data systems for enterprise clients (SoCalGas project)  
+- 🚀 Shipped multiple full-stack and AI products end-to-end  
+- 🧠 Strong focus on **real-world impact over theoretical work**
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm actively seeking:
+
+- 🚀 Software Engineering roles (Full Stack / AI)
+- 🤖 AI/LLM-focused product teams
+- 🌱 Startups building cutting-edge systems  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: *(add your link)*
+- 📧 Email: *(your email)*
+- 🌐 Portfolio: https://uruj-portfolio.web.app/
+
+---
+
+## ⚡ Fun Fact
+
+I once built a system that lets me **play Pokémon using hand gestures** — because keyboards are overrated 😄
