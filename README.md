@@ -32,7 +32,7 @@ I build **AI-powered products that actually work in the real world**, not just d
 - 🤖 AI-powered suggestions & usage insights  
 - ⚙️ Backend: Supabase with RLS  
 
-### 💬 Book AI (Cassidy AI Clone)  
+### 💬 Book AI  
 > Company knowledge assistant using LLMs  
 
 - 📄 PDF ingestion + FAISS vector search  
