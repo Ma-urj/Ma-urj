@@ -5,8 +5,6 @@
 📍 Based in Texas, USA  
 ⚡ Focused on AI, LLM systems, and scalable full-stack applications  
 
----
-
 ## 🧠 What I Do
 
 I build **AI-powered products that actually work in the real world**, not just demos.
@@ -15,8 +13,6 @@ I build **AI-powered products that actually work in the real world**, not just d
 - 🧩 Full-Stack Development (React, React Native, Node, FastAPI)
 - ⚙️ Scalable Architectures (Docker, AWS, Supabase, APIs)
 - 🧠 AI + Product Thinking (turning ideas → shipped systems)
-
----
 
 ## 🛠️ Featured Projects
 
@@ -28,8 +24,6 @@ I build **AI-powered products that actually work in the real world**, not just d
 - 🖥️ Local + cloud AI support (Ollama + OpenAI)  
 - 🔍 Semantic search over meeting history  
 
----
-
 ### 📚 Smart Fridge App  
 > AI-powered inventory + grocery management system  
 
@@ -38,8 +32,6 @@ I build **AI-powered products that actually work in the real world**, not just d
 - 🤖 AI-powered suggestions & usage insights  
 - ⚙️ Backend: Supabase with RLS  
 
----
-
 ### 💬 Book AI (Cassidy AI Clone)  
 > Company knowledge assistant using LLMs  
 
@@ -47,15 +39,11 @@ I build **AI-powered products that actually work in the real world**, not just d
 - 🤖 Context-aware Q&A over company data  
 - ⚡ FastAPI backend + React/Expo frontend  
 
----
-
 ### 🧬 Computer Vision Projects  
 - ✋ Gesture-controlled gaming (played Pokémon using hand tracking)  
 - 🙂 Emotion detection system  
 - 🧏 Sign language recognition  
 - 📸 Face detection & recognition pipelines  
-
----
 
 ## 🧰 Tech Stack
 
@@ -74,16 +62,12 @@ React • React Native • Tailwind • Chakra UI
 ### ☁️ DevOps & Cloud  
 AWS • Azure • Docker • CI/CD • GitHub Actions  
 
----
-
 ## 🏆 Experience Highlights
 
 - 👨‍🔬 Led research at AQFS Labs, mentoring 15+ students  
 - 📊 Built AI + cloud data systems for enterprise clients (SoCalGas project)  
 - 🚀 Shipped multiple full-stack and AI products end-to-end  
 - 🧠 Strong focus on **real-world impact over theoretical work**
-
----
 
 ## 🎯 What I'm Looking For
 
@@ -93,13 +77,11 @@ I'm actively seeking:
 - 🤖 AI/LLM-focused product teams
 - 🌱 Startups building cutting-edge systems  
 
----
-
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(your email)*
-- 🌐 Portfolio: https://uruj-portfolio.web.app/
+- 💼 LinkedIn: www.linkedin.com/in/maurj
+- 📧 Email: uruj.aiwork@gmail.com
+<!-- 🌐 Portfolio: https://uruj-portfolio.web.app/-->
 
 ---
 
