@@ -83,8 +83,6 @@ I'm actively seeking:
 - 📧 Email: uruj.aiwork@gmail.com
 <!-- 🌐 Portfolio: https://uruj-portfolio.web.app/-->
 
----
-
 ## ⚡ Fun Fact
 
 I once built a system that lets me **play Pokémon using hand gestures** — because keyboards are overrated 😄
